@@ -1,0 +1,1 @@
+WeatherHub is a modern weather application built with Next.js and React, providing real-time weather data, 5-day forecasts, air quality information, and an interactive weather map. It features a responsive design, light/dark modes, and API integration with OpenWeatherMap for a seamless and user-friendly experience.
